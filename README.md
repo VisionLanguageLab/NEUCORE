@@ -58,3 +58,7 @@ Pre-trained model: [google drive](https://drive.google.com/drive/folders/1hjpn8F
 ```
 sh ./scripts/test.sh <dataset> <checkpoint_path>
 ```
+
+## Acknowledgement
+
+Our code is based on [ARTEMIS](https://github.com/naver/artemis). Thanks for their great work!
